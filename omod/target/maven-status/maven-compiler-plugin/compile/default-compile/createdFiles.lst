@@ -1,0 +1,2 @@
+org\openmrs\module\uitestframework\web\controller\UitestframeworkController.class
+org\openmrs\module\uitestframework\extension\html\AdminList.class

@@ -1,0 +1,6 @@
+org\openmrs\module\uitestframework\Item.class
+org\openmrs\module\uitestframework\api\UitestframeworkService.class
+org\openmrs\module\uitestframework\UitestframeworkConfig.class
+org\openmrs\module\uitestframework\api\dao\UitestframeworkDao.class
+org\openmrs\module\uitestframework\UitestframeworkActivator.class
+org\openmrs\module\uitestframework\api\impl\UitestframeworkServiceImpl.class

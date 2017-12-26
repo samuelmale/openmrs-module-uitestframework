@@ -1,0 +1,2 @@
+org\openmrs\module\uitestframework\api\UitestframeworkServiceTest.class
+org\openmrs\module\uitestframework\api\dao\UitestframeworkDaoTest.class
